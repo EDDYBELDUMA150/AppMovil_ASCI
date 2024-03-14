@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/colid"
+        android:layout_width="1dp"
+        android:layout_height="15dp"
+        android:text="id"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/colnombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/borde"
+        android:text="Nombre indicador"
+        android:textColor="@color/black" />
+
+        <TextView
+        android:id="@+id/colpeso"
+        android:layout_width="45dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="0.000"
+        android:background="@drawable/borde"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/colestandar"
+        android:layout_width="45dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="0.000"
+        android:background="@drawable/borde"
+        android:textColor="@color/black" />
+
+</TableRow>

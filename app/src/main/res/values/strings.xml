@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ISTA</string>
+    <string name="notificaciones">🔔 Notificaciones</string>
+    <string name="reportes">📋 Reportes</string>
+    <string name="principal">🤵 Mi perfil</string>
+    <string name="salir">🚪 Salir</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="show_password">Ver</string>
+    <string name="actividades">📝 Actividades</string>
+    <string name="criterios">📉 Criterios</string>
+    <string name="fecha">Miércoles 21 de agosto del 2022</string>
+    <string name="graficas">📊 Ver gráficas</string>
+    <string name="unirstring">%1$s %2$s</string>
+    <string name="nombrescompletos">%1$s %2$s %3$s %4$s</string>
+    <string name="perfil">Mi perfil</string>
+    <string name="noti">Notificaciones</string>
+    <string name="grafico">Gráficos</string>
+    <string name="reporte">Reportes</string>
+    <string name="repac">Criterios de evaluación:</string>
+    <string name="repcri">Reportes Criterios</string>
+    <string name="repacti">Reportes Actividades</string>
+    <string name="iniciar">Iniciar Sesión</string>
+    <string name="des">DESCRIPCIÓN</string>
+    <string name="obs">Ingrese la observacion...</string>
+    <string name="enviar">Enviar</string>
+    <string name="obse">Observación para</string>
+    <string name="reenviar">Reenviar</string>
+    <string name="id">ID</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="agregar">Agregar una observación</string>
+</resources>
